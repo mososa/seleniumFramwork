@@ -1,0 +1,22 @@
+
+[
+  {
+    "name": "mohammedSosa",
+    "email": "msolpsa@gmail.com",
+    "password" : "$ThisIsPassw@rd",
+    "DOBDay": "9",
+    "DOBMonth": "March",
+    "DOBYear": "1998",
+    "firstName": "Mohammed",
+    "lastName" : "Sosa",
+    "company" : "STC",
+    "address" : "almorsalat",
+    "country" : "United States",
+    "state": "Washgonton",
+    "city" : "Riyadh",
+    "zipCode": "13725",
+    "mobileNumber" : "00201221887865"
+
+  }
+
+]
